@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning : advanced web development frameworks and backend technologies.
 - 💞️ I’m looking to collaborate on : open-source projects, web development teams, or any innovative tech initiatives.
 - 📫 How to reach me : my email : ejazhussain06688@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I love solving complex coding challenges and often participate in hackathons
 
 <!---
